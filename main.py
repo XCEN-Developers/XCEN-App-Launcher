@@ -251,8 +251,6 @@ def uninstallermenu():
     ınstallkilicwatch.destroy()
     ınstallkedit.destroy()
     uninstallappmenu.destroy()
-    installbase96.destroy()
-    installbase96decoder.destroy()
 
     veri = json_kontrol_ve_oku()
 
